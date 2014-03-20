@@ -29,7 +29,7 @@ setup(
         'Topic :: Internet :: WWW/HTTP :: WSGI',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
-    license = 'This is free and unencumbered software released into the public domain.'
+    license = 'This is free and unencumbered software released into the public domain.',
     packages = find_packages('src'),
     package_dir = {'': 'src'},
     include_package_data = True,
